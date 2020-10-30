@@ -1,2 +1,2 @@
-# The-big-lambda-varargs-library
+# varargs-lambdas
 Collection of lambda with varargs
